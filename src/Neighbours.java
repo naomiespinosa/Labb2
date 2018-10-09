@@ -70,6 +70,7 @@ public class Neighbours extends Application {
         world = makeMatrix(nLocations, dist);
         // Should be last
         fixScreenSize(nLocations);
+        out.print("hej");
     }
 
 
